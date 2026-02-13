@@ -1,3 +1,5 @@
+"use client";
+
 import type { VpnCheckResult } from "@/lib/vpn-check";
 
 const badgeColors = {
